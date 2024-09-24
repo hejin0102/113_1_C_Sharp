@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hellow Word/1.0.0": {
+        "runtime": {
+          "Hellow Word.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hellow Word/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

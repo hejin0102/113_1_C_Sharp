@@ -1,0 +1,16 @@
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\bin\Debug\net8.0-windows\Hellow Word.exe
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\bin\Debug\net8.0-windows\Hellow Word.deps.json
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\bin\Debug\net8.0-windows\Hellow Word.runtimeconfig.json
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\bin\Debug\net8.0-windows\Hellow Word.dll
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\bin\Debug\net8.0-windows\Hellow Word.pdb
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\obj\Debug\net8.0-windows\Hellow_Word.Form1.resources
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\obj\Debug\net8.0-windows\Hellow Word.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\obj\Debug\net8.0-windows\Hellow Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\obj\Debug\net8.0-windows\Hellow Word.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\obj\Debug\net8.0-windows\Hellow Word.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\obj\Debug\net8.0-windows\Hellow Word.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\obj\Debug\net8.0-windows\Hellow Word.dll
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\obj\Debug\net8.0-windows\refint\Hellow Word.dll
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\obj\Debug\net8.0-windows\Hellow Word.pdb
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\obj\Debug\net8.0-windows\Hellow Word.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\Hellow Word\Hellow Word\obj\Debug\net8.0-windows\ref\Hellow Word.dll
