@@ -73,8 +73,9 @@
             // 
             // pictureBox3
             // 
+            pictureBox3.BackColor = SystemColors.Control;
             pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
-            pictureBox3.Location = new Point(12, 170);
+            pictureBox3.Location = new Point(37, 170);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(186, 138);
             pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
