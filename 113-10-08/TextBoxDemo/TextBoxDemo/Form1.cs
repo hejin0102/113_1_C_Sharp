@@ -13,8 +13,11 @@ namespace TextBoxDemo
             string firstName;
             string lastName;
 
-            firstName = txtFristName.Text;
+            firstName = textBoxFirstName.Text;
+            lastName = textBoxLastName.Text;
+            fullName = lastName + " " + firstName;
 
+            lblshow.Text = fullName;
         }
     }
 }

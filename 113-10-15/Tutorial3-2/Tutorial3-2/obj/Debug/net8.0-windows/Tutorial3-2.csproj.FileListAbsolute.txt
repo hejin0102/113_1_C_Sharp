@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\bin\Debug\net8.0-windows\Tutorial3-2.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\bin\Debug\net8.0-windows\Tutorial3-2.deps.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\bin\Debug\net8.0-windows\Tutorial3-2.runtimeconfig.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\bin\Debug\net8.0-windows\Tutorial3-2.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\bin\Debug\net8.0-windows\Tutorial3-2.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\obj\Debug\net8.0-windows\Tutorial3_2.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\obj\Debug\net8.0-windows\Tutorial3-2.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\obj\Debug\net8.0-windows\Tutorial3-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\obj\Debug\net8.0-windows\Tutorial3-2.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\obj\Debug\net8.0-windows\Tutorial3-2.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\obj\Debug\net8.0-windows\Tutorial3-2.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\obj\Debug\net8.0-windows\Tutorial3-2.sourcelink.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\obj\Debug\net8.0-windows\Tutorial3-2.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\obj\Debug\net8.0-windows\refint\Tutorial3-2.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\obj\Debug\net8.0-windows\Tutorial3-2.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\obj\Debug\net8.0-windows\Tutorial3-2.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorial3-2\Tutorial3-2\obj\Debug\net8.0-windows\ref\Tutorial3-2.dll

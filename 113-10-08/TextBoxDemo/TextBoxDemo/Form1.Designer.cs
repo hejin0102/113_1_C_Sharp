@@ -34,7 +34,7 @@
             button1 = new Button();
             textBoxFirstName = new TextBox();
             textBoxLastName = new TextBox();
-            label4 = new Label();
+            lblshow = new Label();
             SuspendLayout();
             // 
             // label1
@@ -94,22 +94,22 @@
             textBoxLastName.Size = new Size(160, 48);
             textBoxLastName.TabIndex = 6;
             // 
-            // label4
+            // lblshow
             // 
-            label4.BorderStyle = BorderStyle.Fixed3D;
-            label4.Font = new Font("Microsoft JhengHei UI", 24F);
-            label4.Location = new Point(344, 334);
-            label4.Name = "label4";
-            label4.Size = new Size(160, 41);
-            label4.TabIndex = 7;
-            label4.TextAlign = ContentAlignment.MiddleCenter;
+            lblshow.BorderStyle = BorderStyle.Fixed3D;
+            lblshow.Font = new Font("Microsoft JhengHei UI", 24F);
+            lblshow.Location = new Point(344, 334);
+            lblshow.Name = "lblshow";
+            lblshow.Size = new Size(160, 41);
+            lblshow.TabIndex = 7;
+            lblshow.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 586);
-            Controls.Add(label4);
+            Controls.Add(lblshow);
             Controls.Add(textBoxLastName);
             Controls.Add(textBoxFirstName);
             Controls.Add(button1);
@@ -130,6 +130,6 @@
         private Button button1;
         private TextBox textBoxFirstName;
         private TextBox textBoxLastName;
-        private Label label4;
+        private Label lblshow;
     }
 }
