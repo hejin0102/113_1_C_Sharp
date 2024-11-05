@@ -26,32 +26,43 @@ namespace Test_Score_Average
                 testl = double.Parse(test1TextBox.Text);
                 test2 = double.Parse(test1TextBox.Text);
                 test3 = double.Parse(test1TextBox.Text);
+                if ((testl >= 0 && testl <= 100) && (test2 >= 0 && test2 <= 100) && (test3 >= 0 && test3 <= 100))
+                {
+                    average = (testl + test2 + test3) / 3.0;
+                    averageLabel.Text = average.ToString("n1");
 
-                average = (testl + test2 + test3) / 3.0;
-                averageLabel.Text = average.ToString("n1");
-
-                if (average >= 90) ;
+                    if (average >= 90) 
+                    {
+                        grade = "A";
+                    }
+                     else if (average >= 80) 
+                    {
+                        grade = "B";
+                    }
+                     else if (average >= 70) 
+                    {
+                        grade = "C";
+                    }
+                     else if (average >= 60) 
+                    {
+                        grade = "D";
+                    }
+                     else
+                    {
+                        grade = "E";
+                    }
+                    MessageBox.Show("你的等級是：" + grade);
+                }
+                else
                 {
-                    grade = "A";
+                    MessageBox.Show("請輸入0~100之間的數字");
                 }
-                else if (average >= 80) ;
-                {
-                    grade = "B";
-                }
-                else if (average >= 70) ;
-                    grade = "C";
-                }
-                else if (average >= 60) ;
-                    grade = "D";
-                }
-            
-                {
-                    MessageBox.Show("恭喜!幹的好!");
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
-        }
+            }
+            }
 
         private void clearButton_Click(object sender, EventArgs e)
         {

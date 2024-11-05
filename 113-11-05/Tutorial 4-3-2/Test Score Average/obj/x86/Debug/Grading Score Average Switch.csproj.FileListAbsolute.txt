@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\Tutorial 4-3-2\Test Score Average\bin\Debug\Test Score Average.exe.config
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\Tutorial 4-3-2\Test Score Average\bin\Debug\Test Score Average.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\Tutorial 4-3-2\Test Score Average\bin\Debug\Test Score Average.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\Tutorial 4-3-2\Test Score Average\obj\x86\Debug\Grading Score Average Switch.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\Tutorial 4-3-2\Test Score Average\obj\x86\Debug\Test_Score_Average.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\Tutorial 4-3-2\Test Score Average\obj\x86\Debug\Test_Score_Average.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\Tutorial 4-3-2\Test Score Average\obj\x86\Debug\Grading Score Average Switch.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\Tutorial 4-3-2\Test Score Average\obj\x86\Debug\Grading Score Average Switch.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\Tutorial 4-3-2\Test Score Average\obj\x86\Debug\Test Score Average.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\Tutorial 4-3-2\Test Score Average\obj\x86\Debug\Test Score Average.pdb

@@ -19,13 +19,35 @@ namespace Fuel_Economy_with_TryParse
 
         private void calculateButton_Click(object sender, EventArgs e)
         {
-            
+            double kms;
+            double liters;
+            if (double.TryParse(milesTextBox.Text, out kms))
+            {
+                if (double.TryParse(gallonsTextBox.Text, out liters))
+                {
+                    double map = kms / liters;
+                    mpgLabel.Text = map.ToString("n1");
+                }
+                else
+                {
+                    MessageBox.Show("耗油量輸入資料格式錯誤");
+                }
+            }
+            else
+            {
+                MessageBox.Show("里程數輸入資料格式錯誤");
+            }
         }
 
         private void exitButton_Click(object sender, EventArgs e)
         {
             // Close the form.
             this.Close();
+        }
+
+        private void milesTextBox_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
